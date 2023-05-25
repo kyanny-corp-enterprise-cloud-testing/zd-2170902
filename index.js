@@ -58,7 +58,7 @@ try {
         //console.log(parsedData);
 
         wikiIndex += `- [[${filenameWithoutExtension}]]\n`;
-        markdownIndex += `- [${filenameWithoutExtension}](./${filename})\n`;
+        markdownIndex += `- [${filenameWithoutExtension}](https://github.com/kyanny/wiki-index/wiki/${filenameWithoutExtension})\n`;
 
         console.log(parsedData);
         if (!!parsedData["keywords"]) {

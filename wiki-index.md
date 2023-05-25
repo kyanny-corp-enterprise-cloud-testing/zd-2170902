@@ -1,24 +1,24 @@
-- [Home](./Home.md)
-- [おでん](./おでん.md)
+- [Home](https://github.com/kyanny/wiki-index/wiki/Home)
+- [おでん](https://github.com/kyanny/wiki-index/wiki/おでん)
   - keywords: レシピ, 和食
-- [お寿司](./お寿司.md)
+- [お寿司](https://github.com/kyanny/wiki-index/wiki/お寿司)
   - keywords: レシピ, 和食
-- [てんぷら](./てんぷら.md)
+- [てんぷら](https://github.com/kyanny/wiki-index/wiki/てんぷら)
   - keywords: レシピ, 和食
-- [エビチリ](./エビチリ.md)
+- [エビチリ](https://github.com/kyanny/wiki-index/wiki/エビチリ)
   - keywords: レシピ, 中華
-- [カルボナーラ](./カルボナーラ.md)
+- [カルボナーラ](https://github.com/kyanny/wiki-index/wiki/カルボナーラ)
   - keywords: レシピ, 洋食
-- [クラムチャウダー](./クラムチャウダー.md)
+- [クラムチャウダー](https://github.com/kyanny/wiki-index/wiki/クラムチャウダー)
   - keywords: レシピ, 洋食
-- [シュウマイ](./シュウマイ.md)
+- [シュウマイ](https://github.com/kyanny/wiki-index/wiki/シュウマイ)
   - keywords: レシピ, 中華
-- [ステーキ](./ステーキ.md)
+- [ステーキ](https://github.com/kyanny/wiki-index/wiki/ステーキ)
   - keywords: レシピ, 洋食
-- [ビーフストロガノフのレシピ](./ビーフストロガノフのレシピ.md)
+- [ビーフストロガノフのレシピ](https://github.com/kyanny/wiki-index/wiki/ビーフストロガノフのレシピ)
   - keywords: レシピ, 洋食
-- [レシピ](./レシピ.md)
-- [肉じゃがのレシピ](./肉じゃがのレシピ.md)
+- [レシピ](https://github.com/kyanny/wiki-index/wiki/レシピ)
+- [肉じゃがのレシピ](https://github.com/kyanny/wiki-index/wiki/肉じゃがのレシピ)
   - keywords: レシピ, 和食
-- [麻婆豆腐](./麻婆豆腐.md)
+- [麻婆豆腐](https://github.com/kyanny/wiki-index/wiki/麻婆豆腐)
   - keywords: レシピ, 中華
