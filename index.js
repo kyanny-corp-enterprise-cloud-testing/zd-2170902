@@ -97,3 +97,10 @@ try {
 } catch (err) {
   console.error('An error occurred while writing the file:', err);
 }
+
+try {
+  fs.writeFileSync('./wiki-index.wiki/Home.md', wikiIndex);
+  console.log('The file has been saved!');
+} catch (err) {
+  console.error('An error occurred while writing the file:', err);
+}
