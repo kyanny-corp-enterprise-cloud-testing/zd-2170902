@@ -16,7 +16,7 @@
 - [ステーキ](https://github.com/kyanny-corp-enterprise-cloud-testing/zd-2170902/wiki/ステーキ)
   - keywords: レシピ , 洋食
 - [ビーフストロガノフのレシピ](https://github.com/kyanny-corp-enterprise-cloud-testing/zd-2170902/wiki/ビーフストロガノフのレシピ)
-  - keywords: レシピ
+  - keywords: レシピ , 洋食
 - [レシピ](https://github.com/kyanny-corp-enterprise-cloud-testing/zd-2170902/wiki/レシピ)
 - [白湯](https://github.com/kyanny-corp-enterprise-cloud-testing/zd-2170902/wiki/白湯)
   - keywords: レシピ
