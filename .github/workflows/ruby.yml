@@ -29,10 +29,9 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: clone wiki
-      uses: actions/checkout@v3
-      with:
-        repository: ${{github.repository}}.wiki
-        path: 'wiki'
+      run: |
+        rm -rf wiki
+        git clone https://github.com/${{github.repository}}.wiki wiki
 
     - name: Set up Ruby
     # To automatically get bug fixes and new Ruby versions for ruby/setup-ruby,
