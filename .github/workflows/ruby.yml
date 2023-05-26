@@ -33,6 +33,7 @@ jobs:
         rm -rf wiki
         git clone https://github.com/${{github.repository}}.wiki.git wiki
         ls -lah .
+        ls -lah wiki
 
     - name: Set up Ruby
     # To automatically get bug fixes and new Ruby versions for ruby/setup-ruby,
