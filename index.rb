@@ -5,10 +5,7 @@ wiki_dir = ARGV.first || 'wiki'
 home = []
 index = []
 
-p Dir.pwd
-
 Dir.chdir(wiki_dir) do 
-  system 'ls -lah .'
   Dir.glob('*.md').each do |path|
     name = File.basename(path, File.extname(path))
     home << "- [[#{name}]]"
