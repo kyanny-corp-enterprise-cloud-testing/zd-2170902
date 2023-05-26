@@ -5,7 +5,7 @@
 # This workflow will download a prebuilt Ruby version, install dependencies and run tests with Rake
 # For more information see: https://github.com/marketplace/actions/setup-ruby-jruby-and-truffleruby
 
-name: Ruby
+name: Wiki index auto generator
 
 on:
   gollum:
@@ -46,4 +46,9 @@ jobs:
     - name: generate index
       run: |
         ruby index.rb wiki
-    - uses: stefanzweifel/git-auto-commit-action@v4
+    - name: update index.md
+      uses: stefanzweifel/git-auto-commit-action@v4
+    - name: update Home.md
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        repository: wiki
