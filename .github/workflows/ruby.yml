@@ -27,21 +27,14 @@ jobs:
         ruby-version: ['3.0']
 
     steps:
-    - uses: actions/checkout@v3
-    - uses: actions/checkout@v3
+    - name: checkout repo
+      uses: actions/checkout@v3
+    - name: checkout wiki
+      uses: actions/checkout@v3
       with:
         repository: ${{github.repository}}.wiki.git
         path: wiki
         ref: master
-
-#          https://github.com/kyanny-corp-enterprise-cloud-testing/zd-2170902.wiki.git
-    # - name: clone wiki
-    #   run: |
-    #     rm -rf wiki
-    #     git clone https://github.com/${{github.repository}}.wiki.git wiki
-    #     ls -lah .
-    #     ls -lah wiki
-
     - name: Set up Ruby
     # To automatically get bug fixes and new Ruby versions for ruby/setup-ruby,
     # change this to (see https://github.com/ruby/setup-ruby#versioning):
