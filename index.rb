@@ -1,6 +1,6 @@
 require 'yaml'
 
-wiki_dir = ARGV.first || 'wiki-index.wiki'
+wiki_dir = ARGV.first || 'wiki'
 
 home = []
 index = []
