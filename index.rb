@@ -21,8 +21,7 @@ Dir.chdir(wiki_dir) do
       end
     end
     yaml = YAML.load(yaml_data)
-    pp yaml
-    unless yaml.nil?
+    if yaml
       keywords = yaml['keywords']
       home << "  - keywords: " + keywords.join(", ")
       index << "  - keywords: " + keywords.join(" , ")
