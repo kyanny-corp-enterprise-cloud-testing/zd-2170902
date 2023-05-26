@@ -29,5 +29,5 @@ end
 puts home.join("\n")
 puts index.join("\n")
 
-File.write("#{wiki_dir}/Home.md", home)
-File.write("./index.md", index)
+File.write("#{wiki_dir}/Home.md", home.join("\n"))
+File.write("./index.md", index.join("\n"))
