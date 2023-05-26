@@ -18,6 +18,8 @@
 - [ビーフストロガノフのレシピ](https://github.com/kyanny-corp-enterprise-cloud-testing/zd-2170902/wiki/ビーフストロガノフのレシピ)
   - keywords: レシピ , 洋食
 - [レシピ](https://github.com/kyanny-corp-enterprise-cloud-testing/zd-2170902/wiki/レシピ)
+- [白湯](https://github.com/kyanny-corp-enterprise-cloud-testing/zd-2170902/wiki/白湯)
+  - keywords: レシピ
 - [肉じゃがのレシピ](https://github.com/kyanny-corp-enterprise-cloud-testing/zd-2170902/wiki/肉じゃがのレシピ)
   - keywords: レシピ , 和食
 - [麻婆豆腐](https://github.com/kyanny-corp-enterprise-cloud-testing/zd-2170902/wiki/麻婆豆腐)
