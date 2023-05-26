@@ -32,6 +32,7 @@ jobs:
       with:
         repository: ${{github.repository}}.wiki.git
         path: wiki
+        ref: master
 
 #          https://github.com/kyanny-corp-enterprise-cloud-testing/zd-2170902.wiki.git
     # - name: clone wiki
